@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232388880620",
+    "project_id": "mypass-6b1e5",
+    "storage_bucket": "mypass-6b1e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232388880620:android:898c11ad7cae9c3fb9ddc9",
+        "android_client_info": {
+          "package_name": "com.ian.myfirebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232388880620-8vj2k8pc7rr7gjphduuie0vv1ird34mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ian.myfirebaselogin",
+            "certificate_hash": "c18f5dfb2873405c672222242b24013b4f83b997"
+          }
+        },
+        {
+          "client_id": "232388880620-obhpt24krgt20clcsau0spstdphl3490.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnSO_7n9tqbhle8FSuJ5zpD2ZYWctJhwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232388880620-obhpt24krgt20clcsau0spstdphl3490.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
